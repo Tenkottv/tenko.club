@@ -1,0 +1,10 @@
+# Design concept: contains third-party Pinterest images that must never be published.
+concept/
+
+node_modules/
+coverage/
+reports/
+test-results/
+playwright-report/
+.stryker-tmp/
+.DS_Store
